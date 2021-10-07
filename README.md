@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+I'm currently working as an architect for Codit, helping customers to build Azure and IoT solutions.  I'm currently working with IoT Edge, Timeseries Insights, Azure Data Explorer, and various other Azure services.
+
+[![fgheysels's GitHub stats](https://github-readme-stats.vercel.app/api?username=fgheysels&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+
+
 <!--
 **fgheysels/fgheysels** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
